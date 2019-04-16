@@ -1,0 +1,15 @@
+{
+  "name": "cars-cats",
+  "version": "1.0.0",
+  "description": "\"it's cats, it's cars\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "author": "Marisa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
